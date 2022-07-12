@@ -1,3 +1,1 @@
-# Kaggle Practice
-
-## Predict Future Sales
+# Predict Future Sales
