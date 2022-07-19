@@ -1,3 +1,7 @@
 # Kaggle Practice
 
-## Predict Future Sales
+## Regression
++ Predict Future Sales
+
+
+## Classification
